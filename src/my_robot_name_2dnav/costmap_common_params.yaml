@@ -2,7 +2,7 @@
 # raytrace_range: 3.0
 footprint: [[0.369, 0.25], [0.369, -0.25], [-0.369, -0.25], [-0.369, 0.25]]
 #robot_radius: ir_of_robot
-inflation_radius: 0.3 #最小值为0.446
+inflation_radius: 0.446 #最小值为0.446
 
 observation_sources: laser_scan_sensor
 
