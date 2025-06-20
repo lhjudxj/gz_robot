@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/hnu/gz_robot/devel/lib/libranger_messenger.a  CMakeFiles/ranger_messenger.dir/src/ranger_messenger.cpp.o
+/usr/bin/ranlib /home/hnu/gz_robot/devel/lib/libranger_messenger.a

@@ -1,0 +1,8 @@
+prefix=/home/hnu/gz_robot/devel
+
+Name: ranger_base
+Description: Description of ranger_base
+Version: 0.1.0
+Cflags: -I/home/hnu/gz_robot/src/ranger_ros-main/ranger_base/include
+Libs: -L${prefix}/lib 
+Requires: 

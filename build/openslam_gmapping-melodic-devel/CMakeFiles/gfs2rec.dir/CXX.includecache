@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hnu/gz_robot/src/openslam_gmapping-melodic-devel/gridfastslam/gfs2rec.cpp
+cstring
+-
+iostream
+-
+fstream
+-
+sstream
+-
+vector
+-
+list
+-
+gmapping/utils/point.h
+-
+
+/home/hnu/gz_robot/src/openslam_gmapping-melodic-devel/include/gmapping/utils/gvalues.h
+values.h
+-
+limits.h
+-
+math.h
+-
+limits
+-
+
+/home/hnu/gz_robot/src/openslam_gmapping-melodic-devel/include/gmapping/utils/point.h
+assert.h
+-
+math.h
+-
+iostream
+-
+gmapping/utils/gvalues.h
+/home/hnu/gz_robot/src/openslam_gmapping-melodic-devel/include/gmapping/utils/gmapping/utils/gvalues.h
+

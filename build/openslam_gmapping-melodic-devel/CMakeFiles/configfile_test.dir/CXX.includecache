@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hnu/gz_robot/devel/include/gmapping/configfile/configfile_export.h
+
+/home/hnu/gz_robot/src/openslam_gmapping-melodic-devel/configfile/configfile_test.cpp
+cstdlib
+-
+iostream
+-
+gmapping/configfile/configfile.h
+/home/hnu/gz_robot/src/openslam_gmapping-melodic-devel/configfile/gmapping/configfile/configfile.h
+
+/home/hnu/gz_robot/src/openslam_gmapping-melodic-devel/include/gmapping/configfile/configfile.h
+iostream
+-
+string
+-
+map
+-
+gmapping/configfile/configfile_export.h
+-
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hnu/gz_robot/src/openslam_gmapping-melodic-devel/gridfastslam/gfs2neff.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+cstring
+-
+

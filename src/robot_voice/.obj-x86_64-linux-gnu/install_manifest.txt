@@ -1,0 +1,4 @@
+/opt/ros/noetic/lib/pkgconfig/robot_voice.pc
+/opt/ros/noetic/share/robot_voice/cmake/robot_voiceConfig.cmake
+/opt/ros/noetic/share/robot_voice/cmake/robot_voiceConfig-version.cmake
+/opt/ros/noetic/share/robot_voice/package.xml

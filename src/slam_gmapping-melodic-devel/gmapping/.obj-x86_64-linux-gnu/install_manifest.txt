@@ -1,0 +1,8 @@
+/opt/ros/noetic/lib/pkgconfig/gmapping.pc
+/opt/ros/noetic/share/gmapping/cmake/gmappingConfig.cmake
+/opt/ros/noetic/share/gmapping/cmake/gmappingConfig-version.cmake
+/opt/ros/noetic/share/gmapping/package.xml
+/opt/ros/noetic/lib/gmapping/slam_gmapping
+/opt/ros/noetic/lib/libslam_gmapping_nodelet.so
+/opt/ros/noetic/lib/gmapping/slam_gmapping_replay
+/opt/ros/noetic/share/gmapping/nodelet_plugins.xml

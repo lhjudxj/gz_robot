@@ -1,0 +1,8 @@
+prefix=/home/hnu/gz_robot/devel
+
+Name: robot_voice
+Description: Description of robot_voice
+Version: 0.0.0
+Cflags: -I/home/hnu/gz_robot/src/robot_voice/include
+Libs: -L${prefix}/lib -llib
+Requires: roscpp std_msgs

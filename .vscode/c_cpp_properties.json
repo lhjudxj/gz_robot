@@ -1,0 +1,42 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/home/hnu/gz_robot/devel/include/**",
+                "/opt/ros/noetic/include/**",
+                "/home/hnu/gz_robot/src/navigation/amcl/include/**",
+                "/home/hnu/gz_robot/src/navigation/base_local_planner/include/**",
+                "/home/hnu/gz_robot/src/navigation/carrot_planner/include/**",
+                "/home/hnu/gz_robot/src/navigation/clear_costmap_recovery/include/**",
+                "/home/hnu/gz_robot/src/cmd_controller/include/**",
+                "/home/hnu/gz_robot/src/navigation/costmap_2d/include/**",
+                "/home/hnu/gz_robot/src/navigation/dwa_local_planner/include/**",
+                "/home/hnu/gz_robot/src/navigation/global_planner/include/**",
+                "/home/hnu/gz_robot/src/navigation/map_server/include/**",
+                "/home/hnu/gz_robot/src/navigation/move_base/include/**",
+                "/home/hnu/gz_robot/src/navigation/move_slow_and_clear/include/**",
+                "/home/hnu/gz_robot/src/navigation/nav_core/include/**",
+                "/home/hnu/gz_robot/src/navigation/navfn/include/**",
+                "/home/hnu/gz_robot/src/openslam_gmapping-melodic-devel/include/**",
+                "/home/hnu/gz_robot/src/ranger_ros-main/ranger_base/include/**",
+                "/home/hnu/gz_robot/src/realsense-ros/realsense2_camera/include/**",
+                "/home/hnu/gz_robot/src/robot_voice/include/**",
+                "/home/hnu/gz_robot/src/navigation/rotate_recovery/include/**",
+                "/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/include/**",
+                "/home/hnu/gz_robot/src/navigation/voxel_grid/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14",
+            "compileCommands": "${workspaceFolder}/build/compile_commands.json"
+        }
+    ],
+    "version": 4
+}

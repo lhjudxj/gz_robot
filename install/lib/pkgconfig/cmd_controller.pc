@@ -1,0 +1,8 @@
+prefix=/home/hnu/hnu/robot/gz_robot/install
+
+Name: cmd_controller
+Description: Description of cmd_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,17 @@
+(cl:defpackage ranger_msgs-msg
+  (:use )
+  (:export
+   "<ACTUATORSTATE>"
+   "ACTUATORSTATE"
+   "<ACTUATORSTATEARRAY>"
+   "ACTUATORSTATEARRAY"
+   "<DRIVERSTATE>"
+   "DRIVERSTATE"
+   "<MOTIONSTATE>"
+   "MOTIONSTATE"
+   "<MOTORSTATE>"
+   "MOTORSTATE"
+   "<SYSTEMSTATE>"
+   "SYSTEMSTATE"
+  ))
+

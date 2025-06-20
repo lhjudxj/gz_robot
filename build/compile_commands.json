@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/hnu/gz_robot/build/ugv_sdk-main(1)/ugv_sdk-main",
+  "command": "/usr/bin/c++  -DASIO_ENABLE_OLD_SERVICES -DROS_BUILD_SHARED_LIBS=1 -Dugv_sdk_EXPORTS -I\"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/include\" -I\"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src\"  -O3 -DNDEBUG -fPIC   -std=c++11 -o CMakeFiles/ugv_sdk.dir/src/async_port/async_serial.cpp.o -c \"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src/async_port/async_serial.cpp\"",
+  "file": "/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src/async_port/async_serial.cpp"
+},
+{
+  "directory": "/home/hnu/gz_robot/build/ugv_sdk-main(1)/ugv_sdk-main",
+  "command": "/usr/bin/c++  -DASIO_ENABLE_OLD_SERVICES -DROS_BUILD_SHARED_LIBS=1 -Dugv_sdk_EXPORTS -I\"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/include\" -I\"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src\"  -O3 -DNDEBUG -fPIC   -std=c++11 -o CMakeFiles/ugv_sdk.dir/src/async_port/async_can.cpp.o -c \"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src/async_port/async_can.cpp\"",
+  "file": "/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src/async_port/async_can.cpp"
+},
+{
+  "directory": "/home/hnu/gz_robot/build/ugv_sdk-main(1)/ugv_sdk-main",
+  "command": "/usr/bin/c++  -DASIO_ENABLE_OLD_SERVICES -DROS_BUILD_SHARED_LIBS=1 -Dugv_sdk_EXPORTS -I\"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/include\" -I\"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src\"  -O3 -DNDEBUG -fPIC   -std=c++11 -o CMakeFiles/ugv_sdk.dir/src/utilities/protocol_detector.cpp.o -c \"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src/utilities/protocol_detector.cpp\"",
+  "file": "/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src/utilities/protocol_detector.cpp"
+},
+{
+  "directory": "/home/hnu/gz_robot/build/ugv_sdk-main(1)/ugv_sdk-main",
+  "command": "/usr/bin/c++  -DASIO_ENABLE_OLD_SERVICES -DROS_BUILD_SHARED_LIBS=1 -Dugv_sdk_EXPORTS -I\"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/include\" -I\"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src\"  -O3 -DNDEBUG -fPIC   -std=c++11 -o CMakeFiles/ugv_sdk.dir/src/mobile_robot/scout_robot.cpp.o -c \"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src/mobile_robot/scout_robot.cpp\"",
+  "file": "/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src/mobile_robot/scout_robot.cpp"
+},
+{
+  "directory": "/home/hnu/gz_robot/build/ugv_sdk-main(1)/ugv_sdk-main",
+  "command": "/usr/bin/c++  -DASIO_ENABLE_OLD_SERVICES -DROS_BUILD_SHARED_LIBS=1 -Dugv_sdk_EXPORTS -I\"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/include\" -I\"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src\"  -O3 -DNDEBUG -fPIC   -std=c++11 -o CMakeFiles/ugv_sdk.dir/src/mobile_robot/hunter_robot.cpp.o -c \"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src/mobile_robot/hunter_robot.cpp\"",
+  "file": "/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src/mobile_robot/hunter_robot.cpp"
+},
+{
+  "directory": "/home/hnu/gz_robot/build/ugv_sdk-main(1)/ugv_sdk-main",
+  "command": "/usr/bin/c++  -DASIO_ENABLE_OLD_SERVICES -DROS_BUILD_SHARED_LIBS=1 -Dugv_sdk_EXPORTS -I\"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/include\" -I\"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src\"  -O3 -DNDEBUG -fPIC   -std=c++11 -o CMakeFiles/ugv_sdk.dir/src/mobile_robot/bunker_robot.cpp.o -c \"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src/mobile_robot/bunker_robot.cpp\"",
+  "file": "/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src/mobile_robot/bunker_robot.cpp"
+},
+{
+  "directory": "/home/hnu/gz_robot/build/ugv_sdk-main(1)/ugv_sdk-main",
+  "command": "/usr/bin/c++  -DASIO_ENABLE_OLD_SERVICES -DROS_BUILD_SHARED_LIBS=1 -Dugv_sdk_EXPORTS -I\"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/include\" -I\"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src\"  -O3 -DNDEBUG -fPIC   -std=c++11 -o CMakeFiles/ugv_sdk.dir/src/mobile_robot/ranger_robot.cpp.o -c \"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src/mobile_robot/ranger_robot.cpp\"",
+  "file": "/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src/mobile_robot/ranger_robot.cpp"
+},
+{
+  "directory": "/home/hnu/gz_robot/build/ugv_sdk-main(1)/ugv_sdk-main",
+  "command": "/usr/bin/cc -DASIO_ENABLE_OLD_SERVICES -DROS_BUILD_SHARED_LIBS=1 -Dugv_sdk_EXPORTS -I\"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/include\" -I\"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src\"  -O3 -DNDEBUG -fPIC   -o CMakeFiles/ugv_sdk.dir/src/protocol_v2/agilex_msg_parser_v2.c.o   -c \"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src/protocol_v2/agilex_msg_parser_v2.c\"",
+  "file": "/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src/protocol_v2/agilex_msg_parser_v2.c"
+},
+{
+  "directory": "/home/hnu/gz_robot/build/ugv_sdk-main(1)/ugv_sdk-main",
+  "command": "/usr/bin/c++  -DASIO_ENABLE_OLD_SERVICES -DROS_BUILD_SHARED_LIBS=1 -Dugv_sdk_EXPORTS -I\"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/include\" -I\"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src\"  -O3 -DNDEBUG -fPIC   -std=c++11 -o CMakeFiles/ugv_sdk.dir/src/protocol_v2/protocol_v2_parser.cpp.o -c \"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src/protocol_v2/protocol_v2_parser.cpp\"",
+  "file": "/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src/protocol_v2/protocol_v2_parser.cpp"
+},
+{
+  "directory": "/home/hnu/gz_robot/build/ugv_sdk-main(1)/ugv_sdk-main",
+  "command": "/usr/bin/cc -DASIO_ENABLE_OLD_SERVICES -DROS_BUILD_SHARED_LIBS=1 -Dugv_sdk_EXPORTS -I\"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/include\" -I\"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src\"  -O3 -DNDEBUG -fPIC   -o CMakeFiles/ugv_sdk.dir/src/protocol_v1/agilex_msg_parser_v1.c.o   -c \"/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src/protocol_v1/agilex_msg_parser_v1.c\"",
+  "file": "/home/hnu/gz_robot/src/ugv_sdk-main(1)/ugv_sdk-main/src/protocol_v1/agilex_msg_parser_v1.c"
+}
+]

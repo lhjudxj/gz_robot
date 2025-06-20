@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hnu/gz_robot/devel/include/gmapping/sensor/sensor_base/sensor_base_export.h
+
+/home/hnu/gz_robot/src/openslam_gmapping-melodic-devel/include/gmapping/sensor/sensor_base/sensor.h
+string
+-
+map
+-
+gmapping/sensor/sensor_base/sensor_base_export.h
+-
+
+/home/hnu/gz_robot/src/openslam_gmapping-melodic-devel/include/gmapping/sensor/sensor_base/sensorreading.h
+gmapping/sensor/sensor_base/sensor.h
+/home/hnu/gz_robot/src/openslam_gmapping-melodic-devel/include/gmapping/sensor/sensor_base/gmapping/sensor/sensor_base/sensor.h
+gmapping/sensor/sensor_base/sensor_base_export.h
+-
+
+/home/hnu/gz_robot/src/openslam_gmapping-melodic-devel/sensor/sensor_base/sensor.cpp
+gmapping/sensor/sensor_base/sensor.h
+/home/hnu/gz_robot/src/openslam_gmapping-melodic-devel/sensor/sensor_base/gmapping/sensor/sensor_base/sensor.h
+
+/home/hnu/gz_robot/src/openslam_gmapping-melodic-devel/sensor/sensor_base/sensorreading.cpp
+gmapping/sensor/sensor_base/sensorreading.h
+/home/hnu/gz_robot/src/openslam_gmapping-melodic-devel/sensor/sensor_base/gmapping/sensor/sensor_base/sensorreading.h
+

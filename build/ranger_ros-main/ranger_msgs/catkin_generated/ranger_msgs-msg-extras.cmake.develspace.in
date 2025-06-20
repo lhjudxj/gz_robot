@@ -1,0 +1,2 @@
+set(ranger_msgs_MESSAGE_FILES "/home/hnu/gz_robot/src/ranger_ros-main/ranger_msgs/msg/ActuatorState.msg;/home/hnu/gz_robot/src/ranger_ros-main/ranger_msgs/msg/ActuatorStateArray.msg;/home/hnu/gz_robot/src/ranger_ros-main/ranger_msgs/msg/DriverState.msg;/home/hnu/gz_robot/src/ranger_ros-main/ranger_msgs/msg/MotionState.msg;/home/hnu/gz_robot/src/ranger_ros-main/ranger_msgs/msg/MotorState.msg;/home/hnu/gz_robot/src/ranger_ros-main/ranger_msgs/msg/SystemState.msg")
+set(ranger_msgs_SERVICE_FILES "")
